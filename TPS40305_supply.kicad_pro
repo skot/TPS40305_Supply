@@ -357,7 +357,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "TPS40305_supply"
+    ],
     "pinned_symbol_libs": []
   },
   "meta": {
