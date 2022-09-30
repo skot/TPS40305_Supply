@@ -56,7 +56,7 @@
   (pad "2" smd rect (at -0.325 1.435 90) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1d0e10e3-57cc-4757-85d3-a06989907dad))
   (pad "3" smd rect (at 0.325 1.435 90) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6db92ed1-f6bb-42d6-9dde-f052949c92ce))
   (pad "4" smd rect (at 0.975 1.435 90) (size 0.63 0.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0038a6cb-9ce6-4c71-8a09-bf64aa6c7847))
-  (pad "5" smd custom (at -1.225 0.56) (size 0 0) (layers "F.Cu" "F.Mask")
+  (pad "5" smd custom (at -1.225 0.56) (size 0.01 0.01) (layers "F.Cu" "F.Mask")
     (options (clearance outline) (anchor rect))
     (primitives
       (gr_poly (pts
