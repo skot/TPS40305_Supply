@@ -1273,6 +1273,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a545dd5d-3883-416f-bb55-5dd7a51f8165)
   )
+  (label "SW" (at 192.405 101.6 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid c298275d-6459-4f1f-b973-e5924ec9bd97)
+  )
 
   (symbol (lib_id "Device:C_Polarized") (at 232.41 109.855 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
