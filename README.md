@@ -1,5 +1,6 @@
 # TPS40305 Supply
 Texas Instruments TPS40305 based power supply.
+![](doc/3d_preview.jpg)
 
 Initially set to:
 - Input: DC 4 V - 5.5 V
