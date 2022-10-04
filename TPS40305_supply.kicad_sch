@@ -1558,7 +1558,7 @@
     (property "Datasheet" "~" (id 3) (at 222.25 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DK" "13-RC0402JR-1310KLTR-ND" (id 4) (at 222.25 109.22 0)
+    (property "DK" "311-10KJRCT-ND" (id 4) (at 222.25 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid de496bf1-490a-47b1-af16-aa4298ca8cc7))
