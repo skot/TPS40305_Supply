@@ -1,9 +1,10 @@
 # TPS40305 Supply
 Texas Instruments TPS40305 based power supply.
-![](doc/3d_preview.jpg)
+![](doc/built.png)
 
-If you're going to make this beware: This is the first version and I haven't built one yet. I'm waiting for PCBs to come in and then I'll test the design and post any issues here.
+Low voltage, high current buck controller.
 
-Initially set to:
-- Input: DC 4 V - 5.5 V
-- Output: 1.5 V at 25 A
+- Input: DC 4V - 5.5V
+- Output: adjustable between 1.38V and 1.66V using pot
+- Output Current: 25A (at 1.5V)
+- Seems to work!
